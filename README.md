@@ -17,3 +17,7 @@
 ## Sajikan 
 11. Angkat ayam setelah kulit kecokelatan dan matang sempurna.
 12. Potong sesuai porsi, sajikan hangat dengan nasi atau kentang panggang.
+## Referensi
+- [Sumber](https://www.liputan6.com/islami/read/5548889/8-resep-ayam-panggang-yang-enak-dengan-aneka-bumbu-mudah-dibuat?utm_source=chatgpt.com&page=2)
+- [Git Documentation](https://git-scm.com/doc)
+- [GitHub Documentation](https://docs.github.com/en/github)
