@@ -1,4 +1,4 @@
-![alt text](?raw=true)
+![alt text](https://github.com/AlexanderWilliamT/awilliamt/blob/main/roasted%20chicken.jpg?raw=true)
 # Intruksi Sederhana Membuat Ayam Panggang 
 ## Persiapan Ayam
 1. Cuci ayam hingga bersih, tiriskan.
