@@ -1,3 +1,4 @@
+![alt text](?raw=true)
 # Intruksi Sederhana Membuat Ayam Panggang 
 ## Persiapan Ayam
 1. Cuci ayam hingga bersih, tiriskan.
